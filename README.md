@@ -1,41 +1,43 @@
-- Hi, I’m Samandar
-- Full Stack Developer, 7+ years | Production AI systems & RAG | TypeScript end to end
+- Hi, I’m Sam
+- Software Developer | Distributed systems & AI integrations | Linz, Austria
 
 # Tech Stack
 - JavaScript / TypeScript
+- Python
 
 ## Backend
-- Node.js (Express.js / NestJS / Fastify)
-- REST, GraphQL (Apollo Server), WebSockets / Socket.IO
-- TypeORM / Sequelize / Mongoose
-- OAuth 2.0 / OIDC, Passport.js, JWT
-- Jest, Swagger
+- Node.js (NestJS / Express.js / Fastify)
+- REST & GraphQL (Apollo)
+- WebSockets, Server-Sent Events
+- Event-driven microservices
+- RabbitMQ, AWS SQS / SNS
 
 ## AI
-- RAG (pgvector, hybrid search, reranking)
-- AI agents, tool calling, MCP
-- OpenAI / Claude / Gemini APIs
-- Speech-to-text, realtime voice
-- Eleven Labs
+- OpenAI & open-source LLMs
+- RAG pipelines (pgvector, semantic reranking)
+- Knowledge engineering
+- AI-augmented development (Cursor, Claude Code)
 
 ## Frontend
 - React / Next.js
-- Redux Toolkit / RTK Query / Redux Thunk
-- React Query, Apollo Client
-- Tailwind CSS, i18next
+- React Native
+- Vue.js / Nuxt
+- Redux (Redux Toolkit, RTK Query)
 
 ## Database
-- SQL (PostgreSQL / pgvector)
-- NoSQL (MongoDB, DynamoDB)
+- SQL (PostgreSQL / MySQL)
+- NoSQL (MongoDB)
 - Redis
-
-## Message Queues
-- Apache Kafka
-- RabbitMQ, AWS SQS
+- TypeORM / Sequelize / Mongoose
 
 ## DevOps & CI/CD
-- AWS (ECS, EC2, S3, SQS, SNS, Lambda, API Gateway, IAM, CDK, CloudWatch)
-- Docker / Docker Compose
+- AWS (ECS, S3, SQS/SNS, API Gateway, CloudWatch)
+- Google Cloud
+- Docker / Kubernetes / Terraform
 - CI/CD (GitHub Actions)
 - Nginx / Linux
-- Grafana / Loki / OpenTelemetry / Sentry
+
+## Testing
+- Jest / Vitest
+- Playwright
+- Mocha
