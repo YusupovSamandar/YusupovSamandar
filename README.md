@@ -1,5 +1,5 @@
 - Hi, I’m Samandar (Sam)
-- Software Developer | Distributed systems & AI integrations | Linz, Austria
+- Love building things | AI & RAG enthusiast 🤖 | Distributed systems nerd | Fast learner
 
 # Tech Stack
 - JavaScript / TypeScript
