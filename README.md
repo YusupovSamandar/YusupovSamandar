@@ -1,4 +1,4 @@
-- Hi, I’m Sam
+- Hi, I’m Samandar (Sam)
 - Software Developer | Distributed systems & AI integrations | Linz, Austria
 
 # Tech Stack
